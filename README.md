@@ -16,6 +16,17 @@
   <img src="https://streak-stats.demolab.com?user=SouzaTalles&theme=github_dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaTalles&layout=compact&theme=react)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaTalles&layout=compact&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0d1117)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaTalles&layout=compact&theme=react&bg_color=0d1117&hide_border=true)
+
+
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SouzaTalles&bg_color=0d1117&color=00ffff&line=00ffcc&point=ffffff&area=true&hide_border=true)](https://github.com/SouzaTalles)
+
+
 ## My Skills
 
 #### Main Stack:
