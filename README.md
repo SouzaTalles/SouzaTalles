@@ -9,6 +9,13 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaTalles&layout=compact&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0d1117" />
 </div>
 
+<div align="center">
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SouzaTalles&theme=github_dark" alt="Profile Summary"/>
+
+  <img src="https://streak-stats.demolab.com?user=SouzaTalles&theme=github_dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
+</div>
+
 ## My Skills
 
 #### Main Stack:
