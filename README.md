@@ -6,7 +6,8 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SouzaTalles&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=E6EDF3&bg_color=0d1117" alt="Talles Souza github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaTalles&layout=compact&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaTalles&layout=compact&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0d1117&cache_seconds=60" />
+
 </div>
 
 <div align="center">
